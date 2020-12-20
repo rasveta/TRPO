@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\asm3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,=C:\Users\asm3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2020.11.26 13:10:16.316,=C:\Users\asm3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2020.11.26 13:10:16.340,=C:\Users\asm3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.11.26 13:10:43.795,C:\Users\asm3708\Desktop\Лабораторная работа 8\lab8\Unit1.h=C:\Users\asm3708\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.11.26 13:10:43.795,C:\Users\asm3708\Desktop\Лабораторная работа 8\lab8\Unit1.cpp=C:\Users\asm3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.11.26 13:10:43.795,C:\Users\asm3708\Desktop\Лабораторная работа 8\lab8\Unit1.dfm=C:\Users\asm3708\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.11.26 13:10:45.031,C:\Users\asm3708\Desktop\Лабораторная работа 8\lab8\Project1.cbproj=C:\Users\asm3708\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
